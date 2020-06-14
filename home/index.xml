@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on bangryak</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on bangryak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 bangryak</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>I&amp;rsquo;m an amateur musician who does silly things on my YouTube channel. You can find sheet music for some of my arrangements and transcriptions below.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/home/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/music/</guid>
+      <description> Sheet music  Heize 헤이즈 - 작사가 Lyricist (piano) [Musescore playback] [PDF] Heize 헤이즈 - Not to see you again. (piano) [Musescore playback + analysis] [PDF] Chung Ha 청하 - 여기 적어줘 My Friend / Promise Me / Write It Here (vocals, piano) [Musescore playback] [PDF] Charles Cornell - A Beautiful Day in the Neighborhood (piano) [Musescore playback] [PDF] Nahre Sol - Happy Birthday in the style of Robert Schumann [Score video] [PDF]  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
